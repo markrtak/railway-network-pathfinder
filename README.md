@@ -4,7 +4,7 @@
 
 This project implements a comprehensive railway network system using graph theory and Dijkstra's shortest path algorithm. The system models railway stations as graph nodes and railroad connections as weighted directed edges, enabling efficient computation of optimal travel routes between stations.
 
-![Railway Network Visualization] is available in the file "railsNetwork 5 12345.svg"
+Railway Network Visualization is available in the file "railsNetwork 5 12345.svg"
 
 ## Technical Architecture
 
